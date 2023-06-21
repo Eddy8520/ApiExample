@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Main-Class: com.uam.biblioteca.GoldenBankApplication
+Class-Path: spring-hateoas-2.0.3.jar log4j-to-slf4j-2.19.0.jar jackson-m
+ odule-parameter-names-2.14.2.jar postgresql-42.5.4.jar istack-commons-r
+ untime-4.1.1.jar logback-core-1.4.6.jar spring-beans-6.0.7.jar byte-bud
+ dy-1.12.23.jar angus-activation-2.0.0.jar spring-tx-6.0.7.jar logback-c
+ lassic-1.4.6.jar jboss-logging-3.5.0.Final.jar micrometer-commons-1.10.
+ 5.jar aspectjweaver-1.9.19.jar jackson-annotations-2.14.2.jar checker-q
+ ual-3.5.0.jar spring-boot-starter-validation-3.0.4.jar spring-web-6.0.7
+ .jar commons-lang3-3.12.0.jar spring-aop-6.0.7.jar spring-boot-starter-
+ logging-3.0.5.jar spring-plugin-metadata-2.0.0.RELEASE.jar spring-boot-
+ starter-3.0.5.jar jaxb-runtime-4.0.2.jar spring-boot-starter-data-rest-
+ 3.0.5.jar spring-boot-starter-web-3.0.5.jar spring-boot-starter-aop-3.0
+ .5.jar tomcat-embed-websocket-10.1.7.jar spring-context-6.0.7.jar sprin
+ g-jdbc-6.0.7.jar slf4j-api-2.0.7.jar jackson-dataformat-yaml-2.14.2.jar
+  jakarta.xml.bind-api-4.0.0.jar tomcat-embed-el-10.1.7.jar springfox-co
+ re-3.0.0.jar jakarta.transaction-api-2.0.1.jar swagger-core-jakarta-2.2
+ .7.jar jackson-datatype-jdk8-2.14.2.jar evo-inflector-1.3.jar swagger-u
+ i-4.15.5.jar spring-boot-starter-jdbc-3.0.5.jar HikariCP-5.0.1.jar spri
+ ng-boot-3.0.5.jar spring-data-jpa-3.0.4.jar spring-data-commons-3.0.4.j
+ ar springdoc-openapi-starter-common-2.0.0.jar json-smart-2.4.10.jar swa
+ gger-annotations-jakarta-2.2.7.jar jaxb-core-4.0.2.jar jakarta.inject-a
+ pi-2.0.0.jar spring-jcl-6.0.7.jar classgraph-4.8.149.jar hibernate-comm
+ ons-annotations-6.0.6.Final.jar jackson-datatype-jsr310-2.14.2.jar spri
+ ng-data-rest-core-4.0.4.jar springfox-schema-3.0.0.jar spring-data-rest
+ -webmvc-4.0.4.jar spring-webmvc-6.0.7.jar jakarta.validation-api-3.0.2.
+ jar jackson-core-2.14.2.jar springfox-spi-3.0.0.jar spring-expression-6
+ .0.7.jar json-path-2.7.0.jar lombok-1.18.26.jar classmate-1.5.1.jar spr
+ ing-boot-autoconfigure-3.0.5.jar txw2-4.0.2.jar jakarta.annotation-api-
+ 2.1.1.jar spring-boot-starter-tomcat-3.0.5.jar spring-plugin-core-2.0.0
+ .RELEASE.jar tomcat-embed-core-10.1.7.jar micrometer-observation-1.10.5
+ .jar swagger-models-jakarta-2.2.7.jar spring-core-6.0.7.jar asm-9.3.jar
+  jakarta.persistence-api-3.1.0.jar webjars-locator-core-0.52.jar jackso
+ n-databind-2.14.2.jar jakarta.activation-api-2.1.1.jar hibernate-core-6
+ .1.7.Final.jar jandex-2.4.2.Final.jar accessors-smart-2.4.9.jar spring-
+ boot-starter-data-jpa-3.0.5.jar snakeyaml-1.33.jar jul-to-slf4j-2.0.7.j
+ ar springdoc-openapi-starter-webmvc-api-2.0.0.jar hibernate-validator-8
+ .0.0.Final.jar springfox-spring-web-3.0.0.jar log4j-api-2.19.0.jar spri
+ ngdoc-openapi-starter-webmvc-ui-2.0.0.jar spring-aspects-6.0.7.jar spri
+ ng-orm-6.0.7.jar spring-boot-starter-json-3.0.5.jar antlr4-runtime-4.10
+ .1.jar
+
